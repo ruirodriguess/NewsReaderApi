@@ -1,12 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Coding Projects\\NewsReaderApi\\NewsReaderApi\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9660EC9-BD53-A2B8-7035-D529DED6D9DC}|NewsReaderAPI.csproj|d:\\rui\\projetos solo\\newsreaderapi\\newsreaderapi\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9660EC9-BD53-A2B8-7035-D529DED6D9DC}|NewsReaderAPI.csproj|solutionrelative:controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9660EC9-BD53-A2B8-7035-D529DED6D9DC}|NewsReaderAPI.csproj|d:\\rui\\projetos solo\\newsreaderapi\\newsreaderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9660EC9-BD53-A2B8-7035-D529DED6D9DC}|NewsReaderAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9660EC9-BD53-A2B8-7035-D529DED6D9DC}|NewsReaderAPI.csproj|d:\\rui\\projetos solo\\newsreaderapi\\newsreaderapi\\newsreaderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9660EC9-BD53-A2B8-7035-D529DED6D9DC}|NewsReaderAPI.csproj|solutionrelative:newsreaderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9660EC9-BD53-A2B8-7035-D529DED6D9DC}|NewsReaderAPI.csproj|d:\\rui\\projetos solo\\newsreaderapi\\newsreaderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9660EC9-BD53-A2B8-7035-D529DED6D9DC}|NewsReaderAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9660EC9-BD53-A2B8-7035-D529DED6D9DC}|NewsReaderAPI.csproj|d:\\rui\\projetos solo\\newsreaderapi\\newsreaderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9660EC9-BD53-A2B8-7035-D529DED6D9DC}|NewsReaderAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T16:20:40.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:20:28.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderApi\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsController.cs",
+              "ToolTip": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderApi\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:55:41.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T16:20:31.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsReaderAPI",
+              "DocumentMoniker": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderApi\\NewsReaderAPI.csproj",
+              "RelativeDocumentMoniker": "NewsReaderAPI.csproj",
+              "ToolTip": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderApi\\NewsReaderAPI.csproj",
+              "RelativeToolTip": "NewsReaderAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T16:20:35.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

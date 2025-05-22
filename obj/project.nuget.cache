@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aNXv+N8oaow=",
+  "dgSpecHash": "wx4Xm3pUcdw=",
   "success": true,
-  "projectFilePath": "D:\\Coding Projects\\NewsReaderApi\\NewsReaderApi\\NewsReaderAPI.csproj",
+  "projectFilePath": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderAPI\\NewsReaderAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Rui Rodrigues\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\ruiro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

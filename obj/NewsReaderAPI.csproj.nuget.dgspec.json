@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding Projects\\NewsReaderApi\\NewsReaderApi\\NewsReaderAPI.csproj": {}
+    "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderAPI\\NewsReaderAPI.csproj": {}
   },
   "projects": {
-    "D:\\Coding Projects\\NewsReaderApi\\NewsReaderApi\\NewsReaderAPI.csproj": {
+    "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderAPI\\NewsReaderAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding Projects\\NewsReaderApi\\NewsReaderApi\\NewsReaderAPI.csproj",
+        "projectUniqueName": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderAPI\\NewsReaderAPI.csproj",
         "projectName": "NewsReaderAPI",
-        "projectPath": "D:\\Coding Projects\\NewsReaderApi\\NewsReaderApi\\NewsReaderAPI.csproj",
-        "packagesPath": "C:\\Users\\Rui Rodrigues\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding Projects\\NewsReaderApi\\NewsReaderApi\\obj\\",
+        "projectPath": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderAPI\\NewsReaderAPI.csproj",
+        "packagesPath": "C:\\Users\\ruiro\\.nuget\\packages\\",
+        "outputPath": "D:\\RUI\\PROJETOS SOLO\\NewsReaderAPI\\NewsReaderApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Rui Rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ruiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -74,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
