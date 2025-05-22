@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "NewsReaderAPI.Controllers.NewsController",
+    "Method": "Get",
+    "RelativePath": "api/News",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

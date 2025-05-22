@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xocU2OFQGfGJ4WZORUrRjFgheaFdLAfDioIrxLoTDzg=",
+  "Source": "NewsReaderAPI",
+  "BasePath": "_content/NewsReaderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
