@@ -25,7 +25,7 @@ namespace NewsReaderAPI.Controllers
         public async Task<IActionResult> Get(string keyword)
         {
             if (string.IsNullOrWhiteSpace(keyword))
-                return BadRequest("Keyword is required.");
+                return BadRequest("Keyword is required!");
 
             string apiKey = _configuration["NewsApi:ApiKey"];
             string url = $"https://newsapi.org/v2/everything?q={keyword}&apiKey={apiKey}";
